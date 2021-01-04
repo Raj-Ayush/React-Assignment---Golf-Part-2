@@ -26,16 +26,15 @@ body html .root {
 }
 .reset{
 	font-family: "Fredoka One", cursive;
-  
-	  background-color: #202124;
+  background-color: #202124;
   color: white;
   height: 30px;
   font-size: 15px;
   border-radius:8px;
   border: none;
   width: 100px;
-  
-
+  margin: 20px;
+  outline: none;
 }
 .ball{
     background-color: black;
@@ -45,4 +44,16 @@ body html .root {
     height: 50px;
     width: 50px;
     border-radius: 25px;
+    
+}
+.start{
+  font-family: "Fredoka One", cursive;
+  background-color: black;
+  color: white;
+  border-radius: 8px;
+  width: 100px;
+  border: none;
+  font-size: 15px;
+  height: 30px;
+  outline: none;
 }
